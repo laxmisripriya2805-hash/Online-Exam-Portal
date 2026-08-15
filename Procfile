@@ -1,0 +1,1 @@
+web: cd Exam && gunicorn examProject.wsgi
